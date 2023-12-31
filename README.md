@@ -1,6 +1,6 @@
 # Elevation-And-Landcover
 
-<img src="resources/NLM-vs-DTM.jpg">
+<img src="resources/NLM-vs-DTM.jpg" width="800">
 
 This repo contains the code used to run statistical analysis on the geo-datasets that I produced in ESRI ArcGIS Pro. The tests serve as complementary evidence of the impacts that elevation has on landcover in an Area of Interest located around Killarney National Park (in Ireland).
 
