@@ -1,4 +1,4 @@
-# Elevation-And-Landcover
+# Impact of Elevation on Landcover around Killarney
 
 <img src="resources/NLM-vs-DTM.jpg" width="800">
 
