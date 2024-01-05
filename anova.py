@@ -5,7 +5,7 @@ HEATHLANDS = 700
 PEATLANDS = 600
 GRASSLAND = 500
 
-data = pd.read_csv(r'C:\path\to\data')
+data = pd.read_csv(r'data/Final_Points_Exported.csv')
 
 print("Number of missing values for HEATHLANDS:", data['ELEVATION'][data['LANDCOVER_ID'] == HEATHLANDS].isnull().sum())
 print("Number of missing values for PEATLANDS:", data['ELEVATION'][data['LANDCOVER_ID'] == PEATLANDS].isnull().sum())

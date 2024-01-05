@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 from matplotlib.colors import LinearSegmentedColormap
 
 # read in CSV generated in ArcGIS
-data = pd.read_csv(r'C:\path\to\data')
+data = pd.read_csv(r'data/Final_Points_Statistics_Exported.csv')
 
 data_sorted = data.sort_values(by='MEAN_ELEVATION')
 
